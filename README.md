@@ -10,3 +10,9 @@ Changed div to nav;
 
 Changed div to aside. Also changed all divs in aside to sections;
 
+Relocated all images and linked from new location;
+
+Changed all divs in "content" to sections;
+
+Changed last div to footer;
+
