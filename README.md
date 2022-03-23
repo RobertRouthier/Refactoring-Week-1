@@ -16,3 +16,8 @@ Changed all divs in "content" to sections;
 
 Changed last div to footer;
 
+Ensured that all header tags descended;
+
+Subtracted code by finding proper ways to apply styling to all different sections, images, and headers with a few sections of styling;
+
+Double checked that the website loads correctly;
